@@ -3,14 +3,14 @@
 
 
 :root {
-  --app-font: "DynaPuff";
+  --app-font: "";
   --app-background: hsl(0,0%,0%);
   --app-foreground: hsl(0,0%,7%);
   --app-card-radius: 8px;
   --app-card-margin: 8px;
   --app-card-top-margin: 4px;
   --app-card-border-color: hsl(0,0%,14%);
-  --app-bar-size: 8000px;
+  --app-bar-size: 80px;
   --accent-hue: 141;
   --accent-saturation: 72.9%;
   --accent-lightness: 42%;
